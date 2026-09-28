@@ -1,2 +1,2 @@
-# rylanexpress.dev-main-page
-Main Page for rylanexpress.dev
+# rylanexpress.dev Main Page
+The source code for the main page of my website, rylanexpress.dev
