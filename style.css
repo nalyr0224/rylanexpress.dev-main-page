@@ -1,1 +1,24 @@
-
+nav.navbar ul {
+    list-style: none;
+    display: flex;
+}
+nav.navbar ul li :link{
+    margin-right: 5px;
+    text-decoration: none;
+    color: black;
+}
+nav.navbar ul li :active {
+    color: black;
+}
+nav.navbar ul li :hover {
+    color: black;
+}
+nav.navbar ul li :visited {
+    color: black;
+}
+#main-banner {
+    background: linear-gradient(to right, white, black);
+    margin: 0;
+    margin-bottom: 10px;
+    width: 100vw;
+}
