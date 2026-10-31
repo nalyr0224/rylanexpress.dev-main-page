@@ -1,3 +1,6 @@
+body {
+    margin: 0;
+}
 nav.navbar ul {
     list-style: none;
     display: flex;
@@ -19,6 +22,12 @@ nav.navbar ul li :visited {
 #main-banner {
     background: linear-gradient(to right, white, black);
     margin: 0;
-    margin-bottom: 10px;
     width: 100vw;
+    position: sticky;
+    font-family: "Source Code Pro", monospace;
+    font-style: normal;
+    font-optical-sizing: auto;
+}
+.current-page {
+    text-decoration: underline;
 }
